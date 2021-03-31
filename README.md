@@ -1,5 +1,3 @@
-# nuxt-buefy
-nuxt-buefy
 
 
 # The IP Tracker
